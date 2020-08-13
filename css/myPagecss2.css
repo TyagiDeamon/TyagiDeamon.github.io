@@ -25,14 +25,13 @@ details p{
 	background-position: top left;
 }*/
 #courses a{
-	color: yellow;
 	transition-property: background-color padding margin border-radius;
 	transition-delay: .2s;
 	transition-duration: .5s;
 }
 #courses a:hover{
 	color: blue;
-	background-color: white;
+	background-color: grey;
 	padding: 1%;
 	margin: 1%;
 	border-radius: 5px;
