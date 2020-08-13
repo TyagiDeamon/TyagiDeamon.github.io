@@ -30,7 +30,7 @@ details p{
 	transition-duration: .5s;
 }
 #courses a:hover{
-	color: blue;
+	color:white;
 	background-color: grey;
 	padding: 1%;
 	margin: 1%;
