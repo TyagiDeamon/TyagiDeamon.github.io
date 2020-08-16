@@ -50,7 +50,7 @@ header{
 #top{
 	background-color: #667;
 }
-@media screen and (max-width: 700px){
+@media screen and (max-width: 800px){
 	img{
 		display: none;
 	}
