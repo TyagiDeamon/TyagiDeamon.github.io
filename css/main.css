@@ -1,0 +1,52 @@
+body{
+	background: url(../img/main.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top left;
+	background-attachment: fixed;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+header{
+	margin-top: 1%;
+	margin-bottom: 2%;
+	text-align: center;
+	padding-top: 10%;
+	padding-bottom: 2%;
+	background: #ffffff14;
+}
+#opening{
+	text-align: justify;
+	background-color: white;
+	padding: 2%;
+}
+#second{
+	margin-top: 2%;
+	align-self: center;
+	background-color: grey;
+	padding: 2%;
+}
+.firsttwo{
+}
+#overflow{
+	height: 144px;
+	overflow: auto;
+}
+#last{
+	padding: 4%;
+	margin-bottom: 5%;
+	margin-top: 2%;
+	color: white;
+	text-align: center;
+	font-size: 80%;
+	background-color: #202071;
+}
+.icon{
+	color: white;
+	margin-left: 1%;
+}
+#top{
+	background-color: #667;
+}
